@@ -3,6 +3,57 @@
 
 Daily briefings for South East Queesland Operations Centre's (OpCen) including Brisbane OpCen, Southport OpCen, and Maroochydore OpCen commencing **April 2021** and ending **May 2021**.
 
+## Daily Briefs
+| OpCen        | Date       | Shift | Data                                                                                                                                                                |
+| ------------ | ---------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Brisbane     | 2021-04-23 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Brisbane%20OpCen%20Briefings/230421%20DAY%20BRISBANE%20OPCEN%20BRIEF.pdf)           |
+| Brisbane     | 2021-04-23 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Brisbane%20OpCen%20Briefings/230421%20NIGHT%20BRISBANE%20OPCEN%20BRIEF.pdf)         |
+| Maroochydore | 2021-04-23 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Maroochydore%20OpCen%20Briefings/230421%20DAY%20MAROOCHYDORE%20OPCEN%20BRIEF.pdf)   |
+| Maroochydore | 2021-04-23 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Maroochydore%20OpCen%20Briefings/230421%20NIGHT%20MAROOCHYDORE%20OPCEN%20BRIEF.pdf) |
+| Southport    | 2021-04-23 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Southport%20OpCen%20Briefings/230421%20DAY%20SOUTHPORT%20OPCEN%20BRIEF.pdf)         |
+| Southport    | 2021-04-23 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Southport%20OpCen%20Briefings/230421%20NIGHT%20SOUTHPORT%20OPCEN%20BRIEF.pdf)       |
+| Brisbane     | 2021-04-24 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Brisbane%20OpCen%20Briefings/240421%20DAY%20BRISBANE%20OPCEN%20BRIEF.pdf)           |
+| Brisbane     | 2021-04-24 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Brisbane%20OpCen%20Briefings/240421%20NIGHT%20BRISBANE%20OPCEN%20BRIEF.pdf)         |
+| Maroochydore | 2021-04-24 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Maroochydore%20OpCen%20Briefings/240421%20DAY%20MAROOCHYDORE%20OPCEN%20BRIEF.pdf)   |
+| Maroochydore | 2021-04-24 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Maroochydore%20OpCen%20Briefings/240421%20NIGHT%20MAROOCHYDORE%20OPCEN%20BRIEF.pdf) |
+| Southport    | 2021-04-24 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Southport%20OpCen%20Briefings/240421%20DAY%20SOUTHPORT%20OPCEN%20BRIEF.pdf)         |
+| Southport    | 2021-04-24 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Southport%20OpCen%20Briefings/240421%20NIGHT%20SOUTHPORT%20OPCEN%20BRIEF.pdf)       |
+| Brisbane     | 2021-04-25 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Brisbane%20OpCen%20Briefings/250421%20DAY%20BRISBANE%20OPCEN%20BRIEF.pdf)           |
+| Brisbane     | 2021-04-25 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Brisbane%20OpCen%20Briefings/250421%20NIGHT%20BRISBANE%20OPCEN%20BRIEF.pdf)         |
+| Maroochydore | 2021-04-25 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Maroochydore%20OpCen%20Briefings/250421%20DAY%20MAROOCHYDORE%20OPCEN%20BRIEF.pdf)   |
+| Maroochydore | 2021-04-25 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Maroochydore%20OpCen%20Briefings/250421%20NIGHT%20MAROOCHYDORE%20OPCEN%20BRIEF.pdf) |
+| Southport    | 2021-04-25 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Southport%20OpCen%20Briefings/250421%20DAY%20SOUTHPORT%20OPCEN%20BRIEF.pdf)         |
+| Southport    | 2021-04-25 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Southport%20OpCen%20Briefings/250421%20NIGHT%20SOUTHPORT%20OPCEN%20BRIEF.pdf)       |
+| Brisbane     | 2021-04-26 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Brisbane%20OpCen%20Briefings/260421%20DAY%20BRISBANE%20OPCEN%20BRIEF.pdf)           |
+| Brisbane     | 2021-04-26 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Brisbane%20OpCen%20Briefings/260421%20NIGHT%20BRISBANE%20OPCEN%20BRIEF.pdf)         |
+| Maroochydore | 2021-04-26 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Maroochydore%20OpCen%20Briefings/260421%20DAY%20MAROOCHYDORE%20OPCEN%20BRIEF.pdf)   |
+| Maroochydore | 2021-04-26 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Maroochydore%20OpCen%20Briefings/260421%20NIGHT%20MAROOCHYDORE%20OPCEN%20BRIEF.pdf) |
+| Southport    | 2021-04-26 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Southport%20OpCen%20Briefings/260421%20DAY%20SOUTHPORT%20OPCEN%20BRIEF.pdf)         |
+| Southport    | 2021-04-26 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Southport%20OpCen%20Briefings/260421%20NIGHT%20SOUTHPORT%20OPCEN%20BRIEF.pdf)       |
+| Brisbane     | 2021-04-30 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Brisbane%20OpCen%20Briefings/300421%20DAY%20BRISBANE%20OPCEN%20BRIEF.pdf)           |
+| Brisbane     | 2021-04-30 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Brisbane%20OpCen%20Briefings/300421%20NIGHT%20BRISBANE%20OPCEN%20BRIEF.pdf)         |
+| Maroochydore | 2021-04-30 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Maroochydore%20OpCen%20Briefings/300421%20DAY%20MAROOCHYDORE%20OPCEN%20BRIEF.pdf)   |
+| Maroochydore | 2021-04-30 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Maroochydore%20OpCen%20Briefings/300421%20NIGHT%20MAROOCHYDORE%20OPCEN%20BRIEF.pdf) |
+| Southport    | 2021-04-30 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Southport%20OpCen%20Briefings/300421%20DAY%20SOUTHPORT%20OPCEN%20BRIEF.pdf)         |
+| Southport    | 2021-04-30 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Southport%20OpCen%20Briefings/300421%20NIGHT%20SOUTHPORT%20OPCEN%20BRIEF.pdf)       |
+| Brisbane     | 2021-05-01 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Brisbane%20OpCen%20Briefings/010521%20DAY%20BRISBANE%20OPCEN%20BRIEF.pdf)           |
+| Brisbane     | 2021-05-01 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Brisbane%20OpCen%20Briefings/010521%20NIGHT%20BRISBANE%20OPCEN%20BRIEF.pdf)         |
+| Maroochydore | 2021-05-01 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Maroochydore%20OpCen%20Briefings/010521%20DAY%20MAROOCHYDORE%20OPCEN%20BRIEF.pdf)   |
+| Maroochydore | 2021-05-01 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Maroochydore%20OpCen%20Briefings/010521%20NIGHT%20MAROOCHYDORE%20OPCEN%20BRIEF.pdf) |
+| Southport    | 2021-05-01 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Southport%20OpCen%20Briefings/010521%20DAY%20SOUTHPORT%20OPCEN%20BRIEF.pdf)         |
+| Southport    | 2021-05-01 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Southport%20OpCen%20Briefings/010521%20NIGHT%20SOUTHPORT%20OPCEN%20BRIEF.pdf)       |
+| Brisbane     | 2021-05-02 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Brisbane%20OpCen%20Briefings/020521%20DAY%20BRISBANE%20OPCEN%20BRIEF.pdf)           |
+| Brisbane     | 2021-05-02 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Brisbane%20OpCen%20Briefings/020521%20NIGHT%20BRISBANE%20OPCEN%20BRIEF.pdf)         |
+| Maroochydore | 2021-05-02 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Maroochydore%20OpCen%20Briefings/020521%20DAY%20MAROOCHYDORE%20OPCEN%20BRIEF.pdf)   |
+| Maroochydore | 2021-05-02 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Maroochydore%20OpCen%20Briefings/020521%20NIGHT%20MAROOCHYDORE%20OPCEN%20BRIEF.pdf) |
+| Southport    | 2021-05-02 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Southport%20OpCen%20Briefings/020521%20DAY%20SOUTHPORT%20OPCEN%20BRIEF.pdf)         |
+| Southport    | 2021-05-02 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Southport%20OpCen%20Briefings/020521%20NIGHT%20SOUTHPORT%20OPCEN%20BRIEF.pdf)       |
+| Brisbane     | 2021-05-03 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Brisbane%20OpCen%20Briefings/030521%20DAY%20BRISBANE%20OPCEN%20BRIEF.pdf)           |
+| Brisbane     | 2021-05-03 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Brisbane%20OpCen%20Briefings/030521%20NIGHT%20BRISBANE%20OPCEN%20BRIEF.pdf)         |
+| Maroochydore | 2021-05-03 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Maroochydore%20OpCen%20Briefings/030521%20DAY%20MAROOCHYDORE%20OPCEN%20BRIEF.pdf)   |
+| Maroochydore | 2021-05-03 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Maroochydore%20OpCen%20Briefings/030521%20NIGHT%20MAROOCHYDORE%20OPCEN%20BRIEF.pdf) |
+| Southport    | 2021-05-03 | Day   | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Southport%20OpCen%20Briefings/030521%20DAY%20SOUTHPORT%20OPCEN%20BRIEF.pdf)         |
+| Southport    | 2021-05-03 | Night | [View Brief](https://github.com/michael-andrews/QAS-OpCen-Briefings/blob/main/Southport%20OpCen%20Briefings/030521%20NIGHT%20SOUTHPORT%20OPCEN%20BRIEF.pdf)       |
 
 ## Data Source
 
